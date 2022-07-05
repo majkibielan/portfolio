@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me
-I am Michal Bielak. I graduated from Finances and Accounting in Lublin. Working as Salesforce QA since February 2021. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.
+I am Michal Bielak. I graduated from Finances and Accounting in Lublin. Working as Salesforce QA since February 2021. My goal is to develop testing knowledge and technical skills. On this site I would like to share my all gained experience from personal studies and researches.
 
 ## Tools
 * Jira, Trello
