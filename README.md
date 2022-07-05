@@ -1,22 +1,26 @@
 # Portfolio
 
 ## About me
-I am Michal Bielak. I graduated from Finances and Accounting in Lublin. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.
+I am Michal Bielak. I graduated from Finances and Accounting in Lublin. Working as Salesforce QA since February 2021. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.
 
 ## Tools
 * Jira, Trello
 * [Mockaroo](https://mockaroo.com/)
 * Chrome Dev Tools
+* Postman
 
 ## Tech skills
-* JavaScript
-* SQL
+* Git
+* SQL / SOQL
 * HTML
 * CSS
 
+## Certificates
+* Salesforce Administrator
+* Salesforce Sales Cloud Consultant
+
 ## Courses
 * [Sii Zostań Testerem](https://sii.pl/szkolenia/zostan-testerem/)
-* [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 * [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/) - in progress
 
 ## Books
