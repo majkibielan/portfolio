@@ -21,7 +21,7 @@ I am Michal Bielak. I graduated from Finances and Accounting in Lublin. Working 
 
 ## Courses
 * [Sii Zostań Testerem](https://sii.pl/szkolenia/zostan-testerem/)
-* [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/) - in progress
+* [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 
 ## Books
 * R. Smilgin - Zawód tester
